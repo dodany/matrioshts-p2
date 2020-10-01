@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "matrioshts-p2"
+    }
+  },
+  "defaultProject": "matrioshts-p2",
+  "cli": {
+    "analytics": "24946112-fcb6-4aa2-a4d2-040ac5b1f573"
+  }
 }
